@@ -1,8 +1,23 @@
-### The Legend Of Turgut - Le site
+### The Legend Of Turgut - Le jeu
 
 <br/>
 <p align="center">
   <img align="center" width="40%" alt="Turgut en pixel" src="Turgut.png"/>
+</p>
+<br/>
+<br/>
+<p align="center">
+  <img align="center" width="80%" alt="Turgut en pixel" src="TurgutCODE.png"/>
+</p>
+<br/>
+<br/>
+<p align="center">
+  <img align="center" width="80%" alt="Turgut en pixel" src="TurgutJEUX.png"/>
+</p>
+<br/>
+<br/>
+<p align="center">
+  <img align="center" width="80%" alt="Turgut en pixel" src="TurgutJEUX2.png"/>
 </p>
 <br/>
 
@@ -10,9 +25,9 @@
 
 Turgut est un personnage fictif d'anatolie, à l'époque où les peuples turcs vivaient encore comme des nomades. L'idée d'en faire un jeu d'aventure est simple la **Turquie** est un pays chargé d'histoire, le meilleur endroit pour un **RPG**. Le choix des graphismes en pixel, qui rappel le  **retro gaming.** est simple : ***me faciliter la tache et me focaliser sur le code***
 
-### Pour en savoir plus visitez mon site : 
+### Pour en savoir plus visitez le site du jeu : 
 
- <a href="https://kevinozkaraca.github.io/The-Legend-Of-Turgut-LeSite/" target="_blank">Cliquer ICI !</a>
+ <a href="https://kevinozkaraca.github.io/Turgut_Html_Css" target="_blank">Cliquer ICI !</a>
   <br/>
 
 ### Mes reseaux sociaux : 
