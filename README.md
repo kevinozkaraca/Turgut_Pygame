@@ -23,7 +23,7 @@
   <img align="center" width="80%" alt="Turgut en pixel" src="TurgutJEUX2.png"/>
 </p>
 <br/>
-<p align="center">pour l'instant le jeu démarre, le joueur se déplace et jette un hache (appuyez sur X)<p>
+<p align="center">Pour l'instant le jeu démarre, le joueur se déplace et jette une hache (en appuyant sur X)<p>
 
 ### Qui est Turgut?
 
