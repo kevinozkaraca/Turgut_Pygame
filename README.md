@@ -5,21 +5,25 @@
   <img align="center" width="40%" alt="Turgut en pixel" src="Turgut.png"/>
 </p>
 <br/>
+<p align="center">Ce projet est mon premier projet en Python.<p>
 <br/>
 <p align="center">
   <img align="center" width="80%" alt="Turgut en pixel" src="turgutCODE.png"/>
 </p>
 <br/>
+<p align="center">Le code n'est pas forcément "propre"<p>
 <br/>
 <p align="center">
   <img align="center" width="80%" alt="Turgut en pixel" src="TurgutJEUX.png"/>
 </p>
 <br/>
+<p align="center">J'ai réalisé ce jeu de A à Z avec des tutos et de l'imagination<p>
 <br/>
 <p align="center">
   <img align="center" width="80%" alt="Turgut en pixel" src="TurgutJEUX2.png"/>
 </p>
 <br/>
+<p align="center">pour l'instant le jeu démarre, le joueur se déplace et jette un hache (appuyez sur X)<p>
 
 ### Qui est Turgut?
 
