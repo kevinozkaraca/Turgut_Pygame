@@ -7,7 +7,7 @@
 <br/>
 <br/>
 <p align="center">
-  <img align="center" width="80%" alt="Turgut en pixel" src="TurgutCODE.png"/>
+  <img align="center" width="80%" alt="Turgut en pixel" src="turgutCODE.png"/>
 </p>
 <br/>
 <br/>
